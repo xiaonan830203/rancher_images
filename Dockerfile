@@ -1,2 +1,2 @@
-FROM rancher/rancher:v2.2.3
+FROM rancher/rancher:stable
 MAINTAINER xiaonan830203
